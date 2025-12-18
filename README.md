@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Celo
+# 👋 Olá, eu sou o Marcelo
 
 🎯 **Test Automation Engineer @ Accenture**  
 🎓 **Engenheiro da Computação (formando)**  
